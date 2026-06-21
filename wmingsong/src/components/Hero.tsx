@@ -166,6 +166,12 @@ function Hero() {
               >
                 Send Email
               </a>
+              <a
+                href="https://www.dropbox.com/scl/fi/vngkd0iyg63cz02p7o1b4/Woraphong_Mingsong_CV.pdf?rlkey=8td930jqk6l8jqm43xefbg0ja&st=55fznpo7&e=1&dl=1"
+                className="px-6 py-3 rounded-xl text-sm font-semibold bg-zinc-900 border border-zinc-800 hover:border-emerald-500/50 hover:bg-zinc-800/80 text-zinc-300 shadow-sm transition-all duration-300 hover:-translate-y-0.5 active:translate-y-0"
+              >
+                Resume
+              </a>
             </div>
 
           </div>
@@ -193,6 +199,12 @@ function Hero() {
               className="flex-1 max-w-[130px] sm:max-w-[145px] text-center py-3 px-4 rounded-xl text-sm font-semibold bg-zinc-900 border border-zinc-800 hover:bg-zinc-800/80 text-zinc-300 shadow-sm transition-all active:scale-95"
             >
               Send Email
+            </a>
+               <a
+              href="https://www.dropbox.com/scl/fi/vngkd0iyg63cz02p7o1b4/Woraphong_Mingsong_CV.pdf?rlkey=8td930jqk6l8jqm43xefbg0ja&st=55fznpo7&e=1&dl=1"
+              className="flex-1 max-w-[130px] sm:max-w-[145px] text-center py-3 px-4 rounded-xl text-sm font-semibold bg-zinc-900 border border-zinc-800 hover:bg-zinc-800/80 text-zinc-300 shadow-sm transition-all active:scale-95"
+            >
+              Resume
             </a>
           </div>
 
